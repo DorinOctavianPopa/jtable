@@ -25,6 +25,10 @@ jTable is a jQuery plugin used to create AJAX based CRUD tables without coding H
 * It is not depended on any server side technology.
 * It is platform independed and works on all common browsers.
 
+Notes for 2.6.1 version
+======
+Multi columns form for Create, Edit and Preview dialogs. (rework from [![birddevelper/msjTable](https://github.com/birddevelper/msjTable)(birddevelper/msjTable))
+
 Notes
 ======
 
